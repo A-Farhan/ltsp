@@ -1,4 +1,4 @@
-# Fission Model Function in bi-allele system
+# Fission Model Function in two-type system
 fission <- function(size, n_gen, freq, rate ){
 
   # birth-death probability  
