@@ -1,0 +1,4 @@
+22 proteins:
+median of median score: 0.899 ~ 0.9
+
+total 29 mutated residues, 9 below average median score(0.9) 
